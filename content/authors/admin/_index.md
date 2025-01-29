@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:github@endianness.de'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/michaelheichler
+    url: (https://github.com/michaelheichler)
   - icon: brands/linkedin
     url: [https://www.linkedin.com/](https://www.linkedin.com/in/michael-h-8b5616192/)
 
