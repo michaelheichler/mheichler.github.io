@@ -30,7 +30,9 @@ role: Data Scientist
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-
+  - icon: at-symbol
+    url: 'mailto:github@endianness.de'
+    label: E-mail Me
   - icon: brands/github
     url: [Github](https://github.com/michaelheichler)
   - icon: brands/linkedin
